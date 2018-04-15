@@ -35,6 +35,8 @@
 
 * James Bridle's post highlighting the use of algorithmic content generation for children on Youtube: https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
 
+* A higher-level article at New York Magazine on the same points, quoting Lanier and others: http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html 
+
 ### General
 
 * Mozilla's Internet health report: https://internethealthreport.org/2018/
