@@ -31,6 +31,8 @@
 
 * Jaron Lanier coining the phrase "behavior modification empire" for what I called the dynamics between advertising and content selection: http://www.businessinsider.com/facebook-google-mark-zuckerberg-behavior-modification-empires-2018-4
 
+* Pretty much the same point as Jaron, but more concise: https://www.xkcd.com/1978/
+
 * James Bridle's post highlighting the use of algorithmic content generation for children on Youtube: https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
 
 ### General
