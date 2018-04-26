@@ -37,6 +37,14 @@
 
 * A higher-level article at New York Magazine on the same points, quoting Lanier and others: http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html 
 
+### Historical Parallels
+
+* Maciej Ceglowski on parallels between the current web/social media landscape and the early days of radio: http://idlewords.com/talks/ancient_web.htm
+
 ### General
 
 * Mozilla's Internet health report: https://internethealthreport.org/2018/
+
+### Random Background during discussions of the topic
+
+* Andrew Odlyzko, The Case Against Micropayments: http://www.dtc.umn.edu/~odlyzko/doc/case.against.micropayments.pdf
